@@ -404,3 +404,9 @@ See the [LICENSE](LICENSE) file for the full text.
 Built with ☕ Java and pure `Graphics2D`
 
 </div>
+
+
+output 
+<img width="2166" height="1374" alt="image" src="https://github.com/user-attachments/assets/19d748b4-cc05-4b41-8f9f-bdead527a7ce" />
+
+
