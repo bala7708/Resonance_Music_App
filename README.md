@@ -10,7 +10,6 @@ Resonance is a dark-themed desktop music player built with Java 11 and Swing. It
 ![Java](https://img.shields.io/badge/Java-11%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-3.8%2B-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-5.10-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.0.0-purple?style=for-the-badge)
 
 *A cross-platform, dark-themed music player with animated album art, real-time search,*  
