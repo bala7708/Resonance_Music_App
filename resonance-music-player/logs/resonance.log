@@ -1,0 +1,4 @@
+2026-02-20 03:10:59.483 [main] INFO  com.musicapp.App - Starting Resonance Music Player v1.0.0
+2026-02-20 03:11:00.081 [AWT-EventQueue-0] INFO  com.musicapp.service.MusicLibrary - MusicLibrary initialised: 20 songs, 4 playlists
+2026-02-20 03:11:01.010 [AWT-EventQueue-0] DEBUG com.musicapp.ui.MainWindow - MainWindow ready
+2026-02-20 03:11:01.012 [AWT-EventQueue-0] INFO  com.musicapp.App - Main window launched successfully
